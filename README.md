@@ -8,6 +8,7 @@ This small list includes many amazing, unique tools for providing statistics and
 - [Spotify Pie](https://huangdarren1106.github.io/#) - turn your favourite artists from last month into sharable pie chart (not literally-)
 - [Discover Quickly](https://discoverquickly.com/) - sort your playlists by various criteria, like danceability or popularity
 - [receiptify](https://receiptify.herokuapp.com/) - generate your favourite songs or artists on aesthetic receipt
+- [Vibe Slip](https://vibeslip.app) - turn your favourite tracks into aesthetic thermal receipts, tickets and story-ready slips
 - [lastfm-stats-web](https://github.com/felhag/lastfm-stats-web) - shows some additional stats for Last.fm and Spotify
 - [NewTunes](https://newtunes.xyz/) - view the stats of your most played tracks and artists on Spotify
 - [Your Spotify](https://github.com/Yooooomi/your_spotify) - self-hosted Spotify dashboard that tracks what you listen to and generates stats
